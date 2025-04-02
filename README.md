@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-I'm currently focused on frontend development, with a solid foundation in HTML, CSS, and JavaScript. Right now, I'm diving into React to take my projects to the next level, adding interactivity, personality, and scalability.<br><br>My long-term goal is to become a full stack software engineer. I'm starting by sharpening my frontend skills, and once I feel confident, I’ll transition into backend development, most likely using Node.js, since I really enjoy working with JavaScript across the stack.<br><br>I'm all about learning by building, so check out my repositories to see what I’m working on!
+I'm currently focused on frontend development, with a solid foundation in HTML, CSS, and JavaScript. Right now, I'm diving into React to take my projects to the next level, adding interactivity, personality, and scalability.<br><br>My long-term goal is to become a full stack software engineer. I'm starting by sharpening my frontend skills, and once I feel confident, I’ll transition into backend development, most likely using Node.js, since I really enjoy working with JavaScript across the stack.<br><br>I'm also the Software Lead for Rebel Racing, UNLV’s off-road engineering team. I lead development across a wide range of software projects, including our website, data storage and processing tools, web scrapers, and embedded systems used in our vehicle.<br><br>I'm all about learning by building, so check out my repositories to see what I’m working on!
 
 ## 🌐 Socials:
 
