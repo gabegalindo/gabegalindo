@@ -1,4 +1,5 @@
 ## Hi there 👋
+![](https://komarev.com/ghpvc/?gabegalindo)
 
 # 💫 About Me:
 
