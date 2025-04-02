@@ -5,16 +5,16 @@ I'm currently focused on frontend development, with a solid foundation in HTML, 
 
 # 💻 Tech Stack:
 
-### Languages
+## Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,java,mysql,sqlite,perl)](https://skillicons.dev)
 
-### Libraries & Frameworks
+## Libraries & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
-### Tools & Platforms
+## Tools & Platforms
 [![My Skills](https://skillicons.dev/icons?i=npm,webpack,babel,bootstrap,netlify,wordpress,figma,git,github,ps)](https://skillicons.dev)
 
-### Cloud & DevOps
+## Cloud & DevOps
 [![My Skills](https://skillicons.dev/icons?i=azure,aws)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
@@ -23,7 +23,7 @@ I'm currently focused on frontend development, with a solid foundation in HTML, 
 ![](https://nirzak-streak-stats.vercel.app/?user=gabegalindo&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabegalindo&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-#🌐 Socials:
+# 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-galindo-0118b219b/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabegalindo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gabegalindo)
