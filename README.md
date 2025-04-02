@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?gabegalindo)
+![](https://komarev.com/ghpvc/?gabegalindo/color=brightgreen)
 
 # 💫 About Me:
 
