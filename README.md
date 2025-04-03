@@ -27,7 +27,7 @@ I'm currently focused on frontend development, with a solid foundation in HTML, 
 
 <br><br>
 # 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/gabriel-galindo-0118b219b)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]([www.linkedin.com/in/gabriel-galindo-0118b219b](https://www.linkedin.com/in/gabriel-galindo-0118b219b/))
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/gabegalindo)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gabegalindo)
 
