@@ -7,7 +7,7 @@ I'm currently focused on frontend development, with a solid foundation in HTML, 
 # 💻 Tech Stack:
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,java,mysql,sqlite,perl)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,java)](https://skillicons.dev)
 
 ### Libraries & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
