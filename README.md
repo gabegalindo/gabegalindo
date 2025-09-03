@@ -12,14 +12,14 @@ I'm currently focused on frontend development, with a solid foundation in HTML, 
 ### Libraries & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
-### Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=vite,npm,webpack,babel,bootstrap,netlify,wordpress,figma,git,github,ps)](https://skillicons.dev)
-
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
 
 ### Cloud & DevOps
 [![My Skills](https://skillicons.dev/icons?i=azure,aws)](https://skillicons.dev)
+
+### Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=vite,npm,webpack,babel,bootstrap,netlify,wordpress,figma,git,github,ps)](https://skillicons.dev)
 
 <br><br>
 # 📊 GitHub Stats:
