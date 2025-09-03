@@ -24,7 +24,7 @@ I'm currently focused on frontend development, with a solid foundation in HTML, 
 <br><br>
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=gabegalindo&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=gabegalindo&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabegalindo&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
